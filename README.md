@@ -15,6 +15,7 @@ Install dependencies
 `yarn`
 
 - 不知道为啥直接运行他还安装不了每个包所有依赖，先手动每个安装吧
+- `npx lerna bootstrap` 运行他就能安装所有包的所有依赖
 
 Then run development servers with
 
